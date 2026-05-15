@@ -1,0 +1,19 @@
+abc & xyz,39.8547,20
+z & x,34.2574,13
+zaynab & zainab,32.6665,11
+s & s,82.498,10
+huzu chuzu & aree baree,0,8
+asma bhasma & zayna bA,0,8
+sana & zaynab,0,8
+zaynab & zainab,32.4841,8
+z & z,37.3086,8
+abc & xyz,37.0765,8
+z & z,43.1366,8
+z & z,48.9541,8
+z & z,50.6426,8
+z & z,63.6071,8
+zainab & zaynab,67.2582,8
+z & a,101.74,8
+z & z,157.494,8
+zaynab & aaaa,81.2262,6
+abeer & mehdiya,100.141,4

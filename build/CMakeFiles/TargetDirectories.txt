@@ -1,0 +1,3 @@
+C:/FireWater/build/CMakeFiles/FireWater.dir
+C:/FireWater/build/CMakeFiles/edit_cache.dir
+C:/FireWater/build/CMakeFiles/rebuild_cache.dir

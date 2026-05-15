@@ -1,0 +1,110 @@
+[
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\main.cpp.obj -c C:\\FireWater\\src\\main.cpp",
+  "file": "C:/FireWater/src/main.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\GameEngine.cpp.obj -c C:\\FireWater\\src\\GameEngine.cpp",
+  "file": "C:/FireWater/src/GameEngine.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/GameEngine.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Character.cpp.obj -c C:\\FireWater\\src\\Character.cpp",
+  "file": "C:/FireWater/src/Character.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Character.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Fireboy.cpp.obj -c C:\\FireWater\\src\\Fireboy.cpp",
+  "file": "C:/FireWater/src/Fireboy.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Fireboy.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Watergirl.cpp.obj -c C:\\FireWater\\src\\Watergirl.cpp",
+  "file": "C:/FireWater/src/Watergirl.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Watergirl.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Platform.cpp.obj -c C:\\FireWater\\src\\Platform.cpp",
+  "file": "C:/FireWater/src/Platform.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Platform.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\GameObject.cpp.obj -c C:\\FireWater\\src\\GameObject.cpp",
+  "file": "C:/FireWater/src/GameObject.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/GameObject.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Gem.cpp.obj -c C:\\FireWater\\src\\Gem.cpp",
+  "file": "C:/FireWater/src/Gem.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Gem.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Door.cpp.obj -c C:\\FireWater\\src\\Door.cpp",
+  "file": "C:/FireWater/src/Door.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Door.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Hazard.cpp.obj -c C:\\FireWater\\src\\Hazard.cpp",
+  "file": "C:/FireWater/src/Hazard.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Hazard.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\FirePool.cpp.obj -c C:\\FireWater\\src\\FirePool.cpp",
+  "file": "C:/FireWater/src/FirePool.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/FirePool.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\waterPool.cpp.obj -c C:\\FireWater\\src\\waterPool.cpp",
+  "file": "C:/FireWater/src/waterPool.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/waterPool.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\GreenPool.cpp.obj -c C:\\FireWater\\src\\GreenPool.cpp",
+  "file": "C:/FireWater/src/GreenPool.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/GreenPool.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Entity.cpp.obj -c C:\\FireWater\\src\\Entity.cpp",
+  "file": "C:/FireWater/src/Entity.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Entity.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\LeaderBoard.cpp.obj -c C:\\FireWater\\src\\LeaderBoard.cpp",
+  "file": "C:/FireWater/src/LeaderBoard.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/LeaderBoard.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Level1.cpp.obj -c C:\\FireWater\\src\\Level1.cpp",
+  "file": "C:/FireWater/src/Level1.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Level1.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Level2.cpp.obj -c C:\\FireWater\\src\\Level2.cpp",
+  "file": "C:/FireWater/src/Level2.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Level2.cpp.obj"
+},
+{
+  "directory": "C:/FireWater/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\FireWater.dir\\src\\Levels.cpp.obj -c C:\\FireWater\\src\\Levels.cpp",
+  "file": "C:/FireWater/src/Levels.cpp",
+  "output": "CMakeFiles/FireWater.dir/src/Levels.cpp.obj"
+}
+]
